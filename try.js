@@ -37,7 +37,7 @@
         #laser-pointer {
           display: block;
           height: 1px;
-          width: calc( 50vw * 2 );
+          width: calc( 50vw * 2.1 );
           opacity: 1.00;
           background: white;
           position: fixed;
