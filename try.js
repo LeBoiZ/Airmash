@@ -131,8 +131,8 @@
   SWAM.registerExtension ({
     name: 'Laser Pointer2',
     id: 'leboiz.laserPointer',
-    description: 'Add a laser pointer to your spaceship!',
-    version: '1.0.0',
+    description: 'Add a laser pointers to your spaceship!',
+    version: '1.0.1',
     author: 'leboiz'
   });
 }();
