@@ -127,7 +127,7 @@
   }
 
   /* REGISTER */
-
+!function(){
   SWAM.registerExtension ({
     name: 'Laser Pointer2',
     id: 'leboiz.laserPointer',
@@ -135,5 +135,6 @@
     version: '1.0.0',
     author: 'leboiz'
   });
+}();
 
 }());
